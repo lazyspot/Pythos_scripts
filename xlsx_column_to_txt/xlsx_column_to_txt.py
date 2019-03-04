@@ -20,4 +20,4 @@ if __name__ == "__main__":
     input_file = sys.argv[1] #Input file name
     output_file = sys.argv[2] #Output file name
     column = sys.argv[3] #Column
-    xlsx_to_txt(input_file,output_file,column)
+xlsx_to_txt(input_file,output_file,column)
